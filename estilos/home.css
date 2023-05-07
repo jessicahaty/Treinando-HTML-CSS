@@ -23,6 +23,10 @@
     
 }
 
+a:link {
+    color:white;
+}
+
 a:visited {
     color: white;
 }
