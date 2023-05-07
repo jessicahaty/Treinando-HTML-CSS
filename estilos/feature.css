@@ -1,0 +1,85 @@
+.feature {
+    background-image: url("../img/Rectangle.png");
+    background-size: cover;
+    background-color: #2F1893;
+    background-repeat: no-repeat;
+    font-family: 'DM Sans', sans-serif;
+    margin: 0;
+    
+}
+
+.menu {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 5em;
+
+    
+}
+
+.feature-principal {
+    display:flex
+}
+
+.notebook {
+    position: relative;
+
+}
+
+.imagem-tela {
+    padding-top: 11.5em;
+    position: absolute;
+    left: 0;
+}
+
+.imagem-notebook {
+    padding-top: 10em;
+    margin: 0;
+}
+
+.feature-titulo {
+    font-size: 42px;
+    font-weight: 700;
+    color: white;
+    margin-top: 5em;
+    margin-left: 1em;
+    
+}
+
+.feature-titulo-descricao {
+    font-size: 22px;
+    color: white;
+    margin-left: 2em;
+    margin-right: 18em;
+    line-height: 2em;
+    font-weight: 500;
+}
+
+.feature-descricao {
+    display: flex;
+}
+
+.feature-descricao-1 {
+    margin-top: 5em;
+    margin-left: 3em;
+    margin-right: 10em;
+    color: white;
+}
+
+.feature-descricao-titulo {
+    font-size: 22px;
+}
+
+.feature-descricao-texto {
+    font-size: 16px;
+    line-height: 2em;
+}
+
+.feature-descricao-2 {
+    color: white;
+    margin-top: 5em;
+    margin-right:22em ;
+    margin-bottom: 18em;
+
+}

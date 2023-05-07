@@ -1,0 +1,69 @@
+.avaliacoes {
+    background-color: #1e0e62;
+    font-family: 'DM Sans', sans-serif;
+    margin-top: 5em;
+    margin: 0;
+    
+    
+    
+}
+
+.avaliacoes-geral {
+    margin-left: 20em;
+    margin-bottom: 5em;
+}
+
+.avaliacoes-titulo {
+    color: white;
+    font-size: 42px;
+    margin-left: 1em;
+}
+
+.avaliacoes-caixa {
+    display: flex;
+    display: inline-block;
+    height: 247px;
+    width: 500px;
+    border: 2px solid white;
+    border-color: rgba(255, 255, 255, 0.3);
+    border-radius: 10px;
+    margin: 2em;
+    padding: 2em;
+    
+
+}
+
+.avaliacoes-foto {
+    align-items: left;
+    position: absolute;
+    
+}
+
+.avaliacoes-conteudo-texto {
+    color: white;
+    font-size: 18px;
+    line-height: 2em;
+    position: relative;
+    right: 0;
+    margin-left: 6em;
+
+    
+
+}
+
+.avaliacoes-nome {
+    color: white;
+    opacity: 30%;
+    margin-left: 4.5em;
+    margin-top: 5em;
+    position: absolute;
+    
+}
+
+.avaliacoes-nome-cima {
+    color: white;
+    opacity: 30%;
+    margin-left: 4.5em;
+    margin-top: 3em;
+}
+

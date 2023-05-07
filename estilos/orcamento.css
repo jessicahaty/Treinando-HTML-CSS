@@ -1,0 +1,188 @@
+.orcamento {
+    background-color: #1e0e62;
+    font-family: 'DM Sans', sans-serif;
+    margin-top: 5em;
+    background-image: url("../img/orcamento-fundo.png");
+    background-size: 105%;
+    background-repeat: no-repeat;
+    border-color: rgba(255, 255, 255, 0.3);
+    margin: 0;
+    
+    
+}
+
+.orcamento-geral {
+    display: flex;
+    margin-top: 10em;
+
+    margin-bottom: 10em;
+}
+
+.orcamento-texto {
+    color: white;
+    margin-right: 10em;
+    margin-left: 10em;
+}
+
+.orcamento-texto h1{
+    font-size: 42px;
+}
+
+#orcamento-texto-paragrafo {
+    font-size: 22px;
+    line-height: 2em;
+}
+
+.orcamento-telefone img {
+    width: 3%;
+    height: 3%;
+    
+}
+.orcamento-email img {
+    width: 3%;
+    height: 3%;
+    
+}
+.orcamento-local img {
+    width: 3%;
+    height: 3%;
+    
+}
+
+.orcamento-telefone,
+.orcamento-email,
+.orcamento-local {
+    display: flex;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 2.5em;
+}
+
+.orcamento-telefone p,
+.orcamento-email p,
+.orcamento-local p {
+    margin-top: 0;
+    margin-left: 2em;
+    
+}
+
+
+
+.orcamento-tabela {
+    background-color: white;
+    width: 470px;
+    padding-right: 2.5em;
+    margin-right: 10em;
+    border-radius: 10px;
+    padding-bottom: 100px;
+    
+}
+
+.orcamento-tabela-superior {
+    display: flex;
+    padding-top: 1.5em;
+    padding-left: 2.5em;
+    padding-bottom: 1em;
+}
+
+.orcamento-nome p {
+    color: #1E0E62;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.orcamento-nome input {
+    height: 40px;
+    width: 200px;
+    border-radius: 100px;
+
+
+    
+}
+
+.orcamento-orcamento {
+    padding-left: 2em;
+}
+
+#campo-nome::placeholder {
+    padding-left: 10px;
+}
+
+.orcamento-orcamento p {
+    color: #1E0E62;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.orcamento-orcamento select {
+    color: #1E0E62;
+    font-weight: 700;
+    width: 140px;
+    height: 40px;
+    border-radius: 100px;
+    
+    
+    
+}
+
+#valores {
+    padding-left: 10px;
+    appearance: none;
+    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat right #fff;
+    background-position-x: 110px;
+    
+}
+
+.orcamento-tabela-inferior {
+    padding-left: 2.5em;
+    
+}
+
+.orcamento-tabela-inferior p {
+    color: #1E0E62;
+    font-size: 14px;
+    font-weight: 700;
+
+}
+
+#campo-email {
+    width: 370px;
+    height: 40px;
+    border-radius: 100px;
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+}
+
+#campo-email::placeholder {
+padding-left: 10px;
+}
+
+.orcamento-tabela-inferior textarea {
+    height: 110px;
+    width: 370px;
+    margin-top: 1em;
+    border-radius: 10px;
+}
+
+.orcamento-tabela-final {
+    display: flex;
+    padding-left: 2.5em;
+    padding-bottom: 2em;
+    padding-top: 1.5em;
+}
+
+.orcamento-tabela-final input {
+    padding-right: 5em;
+}
+
+
+.orcamento-tabela-final button {
+    margin-left: 6em;
+    background-color:#25DAC5;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-radius: 100px;
+    border-color: transparent;
+}
+
